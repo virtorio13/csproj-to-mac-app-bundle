@@ -3,3 +3,4 @@ AppBundleCreator/obj
 TestApp/bin
 TestApp/obj
 TestOutput/TestApp.app
+TestOutput/.DS_Store
